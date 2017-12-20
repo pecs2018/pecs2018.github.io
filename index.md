@@ -6,7 +6,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another header](header-2).
+[Link to another hash header](#header-2).
 
 [Link to another page](another-page).
 
