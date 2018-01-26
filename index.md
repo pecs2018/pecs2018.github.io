@@ -5,7 +5,7 @@ layout: default
 <!-- [Link to another hash header](#header-2). -->
 
 <!-- [Link to another page](another-page).  -->
-[Link to another page](README).
+[Link to another page](README.md).
 
 The 2018 Physics of Estuaries and Coastal Seas meeting will be held in Galveston, TX at the historical [Tremont hotel](http://www.thetremonthouse.com/) near [the Strand](https://en.wikipedia.org/wiki/Strand_Historic_District). Meeting dates are planned for October 15-19, 2018.
 
