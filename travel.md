@@ -6,7 +6,7 @@ layout: default
 
 <!-- [Link to another page](another-page).  -->
 
-[Travel](./travel) | [Abstract submission](./submissions) | [Program](./program)
+[Home](./) | [Travel](./travel) | [Abstract submission](./submissions) | [Program](./program)
 
 ## Flights
 

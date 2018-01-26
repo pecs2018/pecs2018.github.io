@@ -2,7 +2,7 @@
 layout: blank
 ---
 
-[Travel](./travel) | [Abstract submission](./submissions) | [Program](./program)
+[Home](./) | [Travel](./travel) | [Abstract submission](./submissions) | [Program](./program)
 
 
 ## Monday
