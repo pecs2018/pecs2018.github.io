@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: default
 ---
 
 [Travel](./travel) | [Abstract submission](./submissions) | [Program](./program)
