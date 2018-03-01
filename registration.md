@@ -4,4 +4,4 @@ layout: default
 
 [Home](./) | [Travel](./travel) | [Abstract submission](./submissions) | [Program](./program) | [Registration](./registration)
 
-Abstracts will be due May 1, 2018.
+Registration information will be provided soon. Early bird registration will have a deadline in June.
