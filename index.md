@@ -13,6 +13,4 @@ Initial plans were to hold the meeting at UTMSI in Port Aransas, TX. However, Po
 
 Hope to see you all in Galveston! From the 2018 PECS organizing committee,
 
-Rob Hetland
-Julie Pietrzak
-Dave Ralston
+Rob Hetland, Julie Pietrzak, and Dave Ralston
