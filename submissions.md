@@ -4,7 +4,7 @@ layout: default
 
 [Home](./) | [Travel](./travel) | [Abstract submission](./submissions) | [Program](./program) | [Registration](./registration)
 
-UPDATE: Abstracts will be due May 15, 2018.
+UPDATE: Abstracts will be due **May 15, 2018**.
 
 Abstract submission process:
 
@@ -13,6 +13,5 @@ Abstract submission process:
     - a title
     - an author list including affiliations; presenting author underlined
     - abstract text approximately 500 words in length
-    - OPTIONAL: a figure, fit within the margins
-    - File size at most a few MB
-    - ***Submit abstracts by email to: txpx2018@gmail.com
+    - *OPTIONAL*: a figure, fit within the margins (please keep file size within a few MB)
+    - **Submit abstracts by email to: txpx2018@gmail.com**
