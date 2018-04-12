@@ -14,4 +14,4 @@ Abstract submission process:
     - an author list including affiliations; presenting author underlined
     - abstract text approximately 500 words in length
     - *OPTIONAL*: a figure, fit within the margins (please keep file size within a few MB)
-    - **Submit abstracts by email to: txpx2018@gmail.com**
+    - **Submit abstracts by email to: [txpx2018@gmail.com](mailto:txpx2018@gmail.com)**
