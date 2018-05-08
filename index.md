@@ -12,7 +12,7 @@ Important dates:
  - **July 1, 2018** Earlybird registration ends. Registration will open soon.
   
 
-The meeting will be held at the [Tremont House](http://www.thetremonthouse.com/), near the historic 'Strand' in Galveston. You can book your room now using [this link](https://www.wyndhamhotels.com/wyndham-grand/galveston-texas/the-tremont-house-a-wyndham-grand-hotel/rooms-rates?brand_id=WY&brand_tier=hr&checkin_date=10/14/2018&checkout_date=10/19/2018&useWRPoints=false&children=0&group_code=1014496PH).
+The meeting will be held at the [Tremont House](http://www.thetremonthouse.com/), near the historic 'Strand' in Galveston. You can *book your room now* using [this link](https://www.wyndhamhotels.com/wyndham-grand/galveston-texas/the-tremont-house-a-wyndham-grand-hotel/rooms-rates?brand_id=WY&brand_tier=hr&checkin_date=10/14/2018&checkout_date=10/19/2018&useWRPoints=false&children=0&group_code=1014496PH).
 
 Initial plans were to hold the meeting at UTMSI in Port Aransas, TX. However, Port Aransas was devistated by Hurricane Harvey, the same hurricane that caused massive flooding in Houston, TX. Recovery has been slow along the south Texas coast. The facilities are still under repair, and it is anticipated the meeting rooms would not be ready until late 2018. Because of the delay associated with relocation, we will not be asking for extended abstracts this year.
 

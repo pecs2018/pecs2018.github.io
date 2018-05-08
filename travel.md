@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<!-- [Link to another hash header](#header-2). -->
-
-<!-- [Link to another page](another-page).  -->
-
 [Home](./) | [Travel](./travel) | [Abstract submission](./submissions) | [Program](./program) | [Registration](./registration)
 
 ## Flights
@@ -14,7 +10,11 @@ You will most likely want to fly into either Houston Hobby Airport (HOU), or Bus
 
 ## Travel to Galveston
 
-Options include renting a car, or taking an airport shuttle. Links to be supplied soon.
+Options include renting a car, or taking an airport shuttle. Here are some links to comoanies that provide shuttle service:
+
+  - [Jeff's Cap and Shuttle Service](http://www.jeffsshuttle.com/)
+  - [Island Breeze Shuttle](https://www.islandbreezeshuttle.com/)
+  - [Galveston Limousine](http://www.galvestonlimo.com/airport-shuttle.asp)
 
 ## Conference Hotel
 
