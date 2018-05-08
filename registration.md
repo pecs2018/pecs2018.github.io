@@ -4,42 +4,35 @@ layout: default
 
 [Home](./) | [Travel](./travel) | [Abstract submission](./submissions) | [Program](./program) | [Registration](./registration)
 
-Registration information will be provided soon. Early bird registration will have a deadline in June.
+Registration for the meeting will be $550, increasing to $650 after July 15, 2018. Please register here (link to be provided soon).
+
+Registration fees include the conference facilities, a continental breakfast, lunch at the meeting, morning and afternoon coffee breaks, and some evening social activities.
 
 
-# Activities
+# Activities, Wednesday, October 17
+
+We plan to have a number of outings on the afternoon of Wednesday, October 18. We will have one main organized activity that will include a boat and bus tour of Galveston Island. Due to limitations in the number of passengers on the boat, we can only allow 88 people on this tour. There are a number of other options; transportation and organization of these events will be dependent on interest.
 
 
 ### Outdoor activities
 
-Bus tour of Galveston island and boat tour of Galveston Bay (limit 88)
+**Bus tour of Galveston island and boat tour of Galveston Bay** (limit 88):  A tour of Galveston Bay through the port and jetties on the *R/V Trident*, and bus tour to the southern tip of the island. Boat and bus tours will run in two concurrent groups, exchanging halfway through.
 
-A tour of Galveston Bay through the port and jetties, and bus tour to the southern tip of the island. Boat and bus tours will run in two concurrent groups, exchanging halfway through.
-
-[*The Artist Boat](www.artistboat.org):
-
-The Artist Boat has various adventures to choose from, whether it's just a kayaking trip through the East End Lagoon, or a kayaking and painting excursion. 
+**[The Artist Boat](www.artistboat.org):**  The Artist Boat has various adventures to choose from, whether it's just a kayaking trip through the East End Lagoon, or a kayaking and painting excursion. 
 
 
-[**Stand Up Paddleboarding](http://www.supgulfcoasttx.com/)
-
-Standup paddleboarding along the Gulf coast.
+**[Stand Up Paddleboarding**](http://www.supgulfcoasttx.com/):**  Standup paddleboarding along the Gulf coast.
  
 
-[***Island Bicycle Company](https://www.islandbicyclecompany.com/tours)
-
-Rent a bicycle or surrey, or even book a bike tour
-
+**[Island Bicycle Company](https://www.islandbicyclecompany.com/tours):** Rent a bicycle or surrey, or even book a bike tour
 
 
 ### Indoor activities
 
-[Moody Gardens](http://www.moodygardens.com/attractions/)
-
-Moody Gardens has a multitude of activities for every age and interest.  Their rainforest pyramid is a stroll through the rainforest with monkeys, ocelots, parrots, anacondas, bats, etc.  The recently renovated aquarium pyramid is AMAZING… on top of the beautiful and numerous aquariums and undersea tunnels there is so much interaction.  You can ask the divers questions while they're in the tank, touch jellyfish in their black light tank, feel starfish, and pet stingrays!  The Discovery Pyramid has rotating exhibits that are brain teasers and the history and purpose of inventions.  There is also a 4-D Theatre and an IMAX theatre on premise with rotating films. 
+**[Moody Gardens](http://www.moodygardens.com/attractions/):** Moody Gardens has a multitude of activities for every age and interest.  Their rainforest pyramid is a stroll through the rainforest with monkeys, ocelots, parrots, anacondas, bats, etc.  The recently renovated aquarium pyramid has beautiful and numerous aquariums and undersea tunnels. The Discovery Pyramid has rotating exhibits that are brain teasers and the history and purpose of inventions.  There is also a 4-D Theatre and an IMAX theatre on premise with rotating films. 
 
 
-Downtown Brewery Exploration:
+**Downtown Brewery Exploration:**
 
  - [Stuttgarden Tavern](https://www.stuttgardentavern.com/galveston/)
  - [Brews Brothers](https://www.facebook.com/BrewsBrothersGalveston/)
