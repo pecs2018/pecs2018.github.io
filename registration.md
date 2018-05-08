@@ -16,17 +16,17 @@ Bus tour of Galveston island and boat tour of Galveston Bay (limit 88)
 
 A tour of Galveston Bay through the port and jetties, and bus tour to the southern tip of the island. Boat and bus tours will run in two concurrent groups, exchanging halfway through.
 
-[The Artist Boat](www.artistboat.org):
+[*The Artist Boat](www.artistboat.org):
 
 The Artist Boat has various adventures to choose from, whether it's just a kayaking trip through the East End Lagoon, or a kayaking and painting excursion. 
 
 
-[Stand Up Paddleboarding](http://www.supgulfcoasttx.com/)
+[**Stand Up Paddleboarding](http://www.supgulfcoasttx.com/)
 
 Standup paddleboarding along the Gulf coast.
  
 
-[Island Bicycle Company](https://www.islandbicyclecompany.com/tours)
+[***Island Bicycle Company](https://www.islandbicyclecompany.com/tours)
 
 Rent a bicycle or surrey, or even book a bike tour
 
