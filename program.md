@@ -1,35 +1,41 @@
 ---
-layout: blank
+layout: default
 ---
 
 [Home](./) | [Travel](./travel) | [Abstract submission](./submissions) | [Program](./program) | [Registration](./registration)
 
-## Sunday, October 14
+#Tentative conference program
 
-Evenng: Icebreaker
+### Sunday, October 14
 
-## Monday, October 15
+**Evening:** Icebreaker
 
-Day: Sessions and Posters
+### Monday, October 15
 
-## Tuesday, October 16
+**Day:** Sessions and Posters
 
-Day: Sessions and Posters
+**Evening:**: Free time
 
-Evening: Excursion
+### Tuesday, October 16
 
-## Wednesday, October 17
+**Day:** Sessions and Posters
 
-Day: Sessions and Posters
+**Evening:** Turbulent mixer at the [Ocean Star](http://www.oceanstaroec.com/)
 
-## Thursday, October 18
+### Wednesday, October 17
 
-Sessions and Posters
+**Morning:** Sessions and Posters
 
-Evening:  Group dinner
+**Afternoon:** Activities and excursions
 
-## Friday, October 19
+### Thursday, October 18
 
-Morning: Sessions
+**Day:** Sessions and Posters
 
-Conference ends at noon
+**Evening:**  Group dinner at the Tremont Hotel
+
+### Friday, October 19
+
+**Morning:** Sessions
+
+***Conference ends at 12-noon***
