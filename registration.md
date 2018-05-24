@@ -4,6 +4,11 @@ layout: default
 
 [Home](./) | [Travel](./travel) | [Abstract submission](./submissions) | [Program](./program) | [Registration](./registration)
 
+
+# Conference registration
+
+### Earlybird registration due by July 15, 2018
+
 Registration for the meeting will be $550, increasing to $650 after July 15, 2018. Please register [here](https://secure.touchnet.com:443/C21490_ustores/web/product_detail.jsp?PRODUCTID=10320).
 
 Registration fees include the conference facilities, a continental breakfast, lunch at the meeting, morning and afternoon coffee breaks, and some evening social activities.
