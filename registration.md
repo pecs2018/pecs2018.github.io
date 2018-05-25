@@ -18,7 +18,7 @@ Registration fees include the conference facilities, a continental breakfast, lu
 #### October 19 from 1-4 pm
 #### Facilitated by Chris Kontoes, RBR Technical Sales Manager
 
-RBR is hosting a workshop on *Optimizing Coastal Measurements* to be held on Friday, October 19 from 1-4 pm immediatly following the closing of the conference. The workshop will be held in the same location as the conference. Coffee and sweets will be provided to all who can attend. Please RSVP to Eric Siegel <eric.siegel@rbr-global.com>.
+RBR is hosting a technical workshop on Optimizing Coastal Measurements on Friday, October 19 from 1-4 pm (immediately following the closing of the conference). The workshop will be held in the same location as PECS. The workshop will focus on understanding oceanographic sensor measurement methods, improving the quality of field data, and increasing deployment success rates.  More information and registration is available on the RBR website (under construction).
 
 # Activities and outings 
 
