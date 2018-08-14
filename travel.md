@@ -23,3 +23,5 @@ Options include renting a car, or taking an airport shuttle. Here are some links
 We have reserved 100 rooms for the conference, which will be give out on a first-come, first served basis. ***Please reserve your room by September 21*** to ensure you get the conference rate.
 
 Book your room using [this link](https://www.wyndhamhotels.com/wyndham-grand/galveston-texas/the-tremont-house-a-wyndham-grand-hotel/rooms-rates?brand_id=WY&brand_tier=hr&checkin_date=10/14/2018&checkout_date=10/19/2018&useWRPoints=false&children=0&group_code=1014496PH)
+
+**NOTICE** the booking link is temporarily broken! It should be fixed soon. In the meantime, call 409-515—2154 to make reservations.
