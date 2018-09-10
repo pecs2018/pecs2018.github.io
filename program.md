@@ -8,11 +8,11 @@ layout: default
 
 ------
 
-# Sunday	13-Oct   
+# Sunday	14-Oct   
 
 18:00 Icebreaker
 
-# Monday	14-Oct   
+# Monday	15-Oct   
 
 ## Estuaries (exchange)
 
@@ -74,7 +74,7 @@ layout: default
 17:00		[Open slot]
 
 
-# Tuesday	15-Oct
+# Tuesday	16-Oct
 
 ## Internal and coastal waves
 
@@ -136,7 +136,7 @@ layout: default
 17:00		[Open slot]
 
 
-# Wednesday	16-Oct
+# Wednesday	17-Oct
 
 ## Sediment transport
 
@@ -172,7 +172,7 @@ layout: default
 
 ## 13:45	Excursions
 
-# Thursday	17-Oct
+# Thursday	18-Oct
 
 ## Sediment transport				
 
@@ -233,7 +233,7 @@ layout: default
 17:00		[Open slot]
 
 
-# Friday	18-Oct
+# Friday	19-Oct
 
 ## Oxygen and nutrients
 
