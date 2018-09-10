@@ -28,7 +28,7 @@ layout: default
 9:30 Brasseale	Elizabeth	UW	Estuarine exchange flow beyond the estuarine channel in an idealized model
 
 
-*** 9:45	Coffee + posters  (5 min of intro from session moderator)***
+***9:45	Coffee + posters  (5 min of intro from session moderator)***
 
 ## Estuaries (fjords, etc)
 
@@ -120,7 +120,7 @@ layout: default
 14:30		Wu	Hui 	East China Normal	Buoyant current in a tidal coastal ocean
 
 
-14:45	4. coffee + posters  (5 min of intro from session moderator)
+***14:45	Coffee + posters  (5 min of intro from session moderator)***
 
 ## Plume
 
