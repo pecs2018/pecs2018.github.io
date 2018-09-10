@@ -28,9 +28,9 @@ layout: default
 9:30 Brasseale	Elizabeth	UW	Estuarine exchange flow beyond the estuarine channel in an idealized model
 
 
-9:45	1. coffee + posters  (5 min of intro from session moderator)				
+*** 9:45	Coffee + posters  (5 min of intro from session moderator)***
 
-Estuaries (fjords, etc)
+## Estuaries (fjords, etc)
 
 
 11:00		MacCready	Parker	UW	How to make a simple model of a fjord
@@ -44,9 +44,9 @@ Estuaries (fjords, etc)
 12:00		Thyng	Kristen	TAMU	Freshwater inflow to Galveston Bay due to Hurricane Harvey
 
 
-12:15	lunch
+***12:15	lunch***
 
-Estuaries (lateral, etc)
+## Estuaries (lateral, etc)
 
 
 13:45		Kranenburg	Wouter	WHOI	The influence of high curvature bends on flow and salinity structure in a narrow, intermittently stratified estuary
@@ -58,10 +58,9 @@ Estuaries (lateral, etc)
 14:30		Schulz	Kristin	NIOZ	AN INVERSION OF THE ESTUARINE CIRCULATION BY SLUICE WATER DISCHARGE AND ITS IMPACT ON SUSPENDED SEDIMENT TRANSPORT
 
 
+***14:45	Coffee + posters  (5 min of intro from session moderator)***
 
-14:45	2. coffee + posters  (5 min of intro from session moderator)
-
-Estuaries (wind, other)
+## Estuaries (wind, other)
 
 
 16:00		Simpson	John	Bangor	The annual cycle of the mechanical energy budget in a temperate lake
@@ -91,7 +90,7 @@ Estuaries (wind, other)
 9:30		Hetzel	Yasha	UWA	Forced and free coastally trapped waves along western and southern coasts of Australia
 
 
-9:45	3. coffee + posters  (5 min of intro from session moderator)
+***9:45	Coffee + posters  (5 min of intro from session moderator)***
 
 ## Nearshore and plumes
 
@@ -107,7 +106,7 @@ Estuaries (wind, other)
 12:00		Zhang	Zhiwei	East China Normal	Response of the Changjiang River plume under a typohoon event 
 
 
-12:15	lunch
+***12:15	lunch***
 
 ## Plumes, coastal current
 
@@ -153,7 +152,7 @@ Estuaries (wind, other)
 9:30		Masselink	Gerd	U Plymouth	SEDIMENT DYNAMICS IN EXPOSED AND MACROTIDAL EMBAYMENTS: OPEN OR CLOSED?
 
 
-9:45	5. coffee + posters  (5 min of intro from session moderator)
+***9:45	Coffee + posters  (5 min of intro from session moderator)***
 
 ## Sediment transport
 
@@ -169,7 +168,7 @@ Estuaries (wind, other)
 12:00		Dellapenna	Tim	TAMU-G	How Much Sediment Was Delivered to Galveston Bay from Hurricane Harvey, where did it come from and how contaminated was it?
 
 
-12:15	lunch
+***12:15	lunch***
 
 ## 13:45	Excursions
 
@@ -188,7 +187,7 @@ Estuaries (wind, other)
 9:30		Moriarty	Julia	USGS	Effect of Vegetation and Hydrodynamics on Estuarine-Marsh Sediment Fluxes: Implications for Marsh Stability
 
 
-9:45	6. coffee + posters  (5 min of intro from session moderator)
+***9:45	Coffee + posters  (5 min of intro from session moderator)***
 
 ## Morphodynamics
 
@@ -204,7 +203,7 @@ Estuaries (wind, other)
 12:00		Campmans	Geert	Twente	Modeling tidal sand wave recovery after dredging
 
 
-12:15	lunch
+***12:15	lunch***
 
 ## Tidal dynamics
 
@@ -218,7 +217,7 @@ Estuaries (wind, other)
 14:30		Nnafie	Abdel	Utrecht	Impact of sea level rise on estuarine morphodynamics: The role of increasing tidal amplitudes
 
 
-14:45	7. coffee + posters  (5 min of intro from session moderator)				
+*** 14:45	Coffee + posters  (5 min of intro from session moderator)***
 
 ## Anthropogenic influences
 
@@ -250,7 +249,7 @@ Estuaries (wind, other)
 9:30		Ruiz	Veronica	TAMU	Using a budget analysis to understand variability in the bottom hypoxia of the Texas Louisiana shelf
 
 
-9:45	8. coffee + posters  (5 min of intro from session moderator)				
+***9:45	Coffee + posters  (5 min of intro from session moderator)***
 
 ## Estuarine stratification, mixing
 
