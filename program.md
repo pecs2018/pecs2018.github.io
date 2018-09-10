@@ -17,36 +17,36 @@ layout: default
 ## Estuaries (exchange)
 
 
-8:30 Burchard	Hans	IOW	Bulk quantications of estuarine mixing
+8:30 Burchard	Hans *(IOW)* Bulk quantications of estuarine mixing
 
-8:45 Ross	Lauren	U Maine	Subtidal flows driven by tidal asymmetries and modulated by sharp bathymetric features at the mouth of a macrotidal estuary
+8:45 Ross	Lauren *(U Maine)* Subtidal flows driven by tidal asymmetries and modulated by sharp bathymetric features at the mouth of a macrotidal estuary
 
-9:00 Lorenz	Marvin	IOW	Variability of the exchange flow of the Persian Gulf
+9:00 Lorenz	Marvin *(IOW)* Variability of the exchange flow of the Persian Gulf
 
-9:15 Chambers	Rachel	U Maine	Lateral Variability of Subtidal Flow at the Mouth of a Macrotidal Estuary
+9:15 Chambers	Rachel *(U Maine)* Lateral Variability of Subtidal Flow at the Mouth of a Macrotidal Estuary
 
-9:30 Brasseale	Elizabeth	UW	Estuarine exchange flow beyond the estuarine channel in an idealized model
+9:30 Brasseale Elizabeth *(UW)* Estuarine exchange flow beyond the estuarine channel in an idealized model
 
 
 ***9:45	Coffee + posters  (5 min of intro from session moderator)***
 
-## Estuaries (fjords, etc)
+## Estuaries (fjords)
 
 
-11:00		MacCready	Parker	UW	How to make a simple model of a fjord
+11:00		MacCready	Parker *(Univ. Washington)* How to make a simple model of a fjord
 
-11:15		Wang	Chuning	Rutgers	Modeling Buoyancy Driven Circulation in an Idealized Fjord with ROMS
+11:15		Wang	Chuning *(Rutgers Univ.)* Modeling Buoyancy Driven Circulation in an Idealized Fjord with ROMS
 
-11:30		Garnier	Soizic	Strathclyde	Optimal-detail circulation models for fjords and sea lochs: an application to the Puget Sound
+11:30		Garnier	Soizic	*(Strathclyde)*	Optimal-detail circulation models for fjords and sea lochs: an application to the Puget Sound
 
-11:45		O'Donnell	Jim	Uconn	Vernal Cooling in a Large Estuary
+11:45		O'Donnell	Jim	*(Univ. Conn.)*	Vernal Cooling in a Large Estuary
 
-12:00		Thyng	Kristen	TAMU	Freshwater inflow to Galveston Bay due to Hurricane Harvey
+12:00		Thyng	Kristen *(Texas A&M Univ.)* Freshwater inflow to Galveston Bay due to Hurricane Harvey
 
 
 ***12:15	lunch***
 
-## Estuaries (lateral, etc)
+## Estuaries (lateral circulation)
 
 
 13:45		Kranenburg	Wouter	WHOI	The influence of high curvature bends on flow and salinity structure in a narrow, intermittently stratified estuary
@@ -60,7 +60,7 @@ layout: default
 
 ***14:45	Coffee + posters  (5 min of intro from session moderator)***
 
-## Estuaries (wind, other)
+## Estuaries (wind, and other forcing)
 
 
 16:00		Simpson	John	Bangor	The annual cycle of the mechanical energy budget in a temperate lake
@@ -71,7 +71,6 @@ layout: default
 
 16:45		Ganju	Neil	USGS	Identifying drivers of vertical mixing in a karst subterranean estuary
 
-17:00		[Open slot]
 
 
 # Tuesday	16-Oct
@@ -133,7 +132,6 @@ layout: default
 
 16:45		Parra	Sabrina	NRL Stennis	Mobile Bay plume mixing in the inner shelf
 
-17:00		[Open slot]
 
 
 # Wednesday	17-Oct
@@ -230,7 +228,6 @@ layout: default
 
 16:45		Pareja	Fernando	Rutgers	Shifts in tidal and salt dynamics in Delaware Bay after a century of dred
 
-17:00		[Open slot]
 
 
 # Friday	19-Oct
@@ -261,7 +258,6 @@ layout: default
 
 11:45		Largier	John	UC Davis	Intense Stratification in Small Wave-Dominated Estuaries
 
-12:00		[Open slot]
 
 
 ## Close of conference
