@@ -71,9 +71,9 @@ layout: default
 
 16:45		Neil Ganju		*(USGS)*	Identifying Drivers of Vertical Mixing in a Karst Subterranean Estuary
 
-### 18:00 Turbulence mixer at the (Ocean Star Museum)[http://www.oceanstaroec.com/] sponsored by 
+### 18:00 Turbulence mixer at the [Ocean Star Museum](http://www.oceanstaroec.com/) sponsored by 
 
-![Rockland Scientific][RSI-logo-horiz.jpg]
+![Rockland Scientific](./RSI-logo-horiz.jpg)
 
 
 
