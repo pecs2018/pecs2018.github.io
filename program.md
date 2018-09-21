@@ -17,15 +17,15 @@ layout: default
 ## Estuaries (exchange)
 
 
-8:30 Burchard	Hans *(IOW)* Bulk quantications of estuarine mixing
+8:30 Hans Burchard *(IOW)* Bulk quantications of estuarine mixing
 
-8:45 Ross	Lauren *(U Maine)* Subtidal flows driven by tidal asymmetries and modulated by sharp bathymetric features at the mouth of a macrotidal estuary
+8:45 Lauren Ross	 *(U Maine)* Subtidal flows driven by tidal asymmetries and modulated by sharp bathymetric features at the mouth of a macrotidal estuary
 
-9:00 Lorenz	Marvin *(IOW)* Variability of the exchange flow of the Persian Gulf
+9:00 Marvin Lorenz	 *(IOW)* Variability of the exchange flow of the Persian Gulf
 
-9:15 Chambers	Rachel *(U Maine)* Lateral Variability of Subtidal Flow at the Mouth of a Macrotidal Estuary
+9:15 Rachel Chambers	 *(U Maine)* Lateral Variability of Subtidal Flow at the Mouth of a Macrotidal Estuary
 
-9:30 Brasseale Elizabeth *(UW)* Estuarine exchange flow beyond the estuarine channel in an idealized model
+9:30 Elizabeth Brasseale  *(UW)* Estuarine exchange flow beyond the estuarine channel in an idealized model
 
 
 ***9:45	Coffee + posters  (5 min of intro from session moderator)***
@@ -33,15 +33,15 @@ layout: default
 ## Estuaries (fjords)
 
 
-11:00		MacCready	Parker *(Univ. Washington)* How to make a simple model of a fjord
+11:00		Parker MacCready	 *(Univ. Washington)* How to Make a Simple Model of a Fjord
 
-11:15		Wang	Chuning *(Rutgers Univ.)* Modeling Buoyancy Driven Circulation in an Idealized Fjord with ROMS
+11:15		Chuning Wang	 *(Rutgers Univ.)* Modeling Buoyancy Driven Circulation in an Idealized Fjord with ROMS
 
-11:30		Garnier	Soizic	*(Strathclyde)*	Optimal-detail circulation models for fjords and sea lochs: an application to the Puget Sound
+11:30		Soizic Garnier		*(Strathclyde)*	Optimal-detail Circulation Models for Fjords and sea Lochs: an Application to the Puget Sound
 
-11:45		O'Donnell	Jim	*(Univ. Conn.)*	Vernal Cooling in a Large Estuary
+11:45		Jim O'Donnell		*(Univ. Conn.)*	Vernal Cooling in a Large Estuary
 
-12:00		Thyng	Kristen *(Texas A&M Univ.)* Freshwater inflow to Galveston Bay due to Hurricane Harvey
+12:00		Kristen Thyng	 *(Texas A&M Univ.)* Freshwater Inflow to Galveston bay due to Hurricane Harvey
 
 
 ***12:15	lunch***
@@ -49,13 +49,13 @@ layout: default
 ## Estuaries (lateral circulation)
 
 
-13:45		Kranenburg	Wouter	WHOI	The influence of high curvature bends on flow and salinity structure in a narrow, intermittently stratified estuary
+13:45		Wouter Kranenburg		*(WHOI)*	The Influence of High Curvature Bends on Flow and Salinity Structure in a Narrow, Intermittently Stratified Estuary
 
-14:00		Hoang	Olivia	UC Berkeley	Longitudinal versus Lateral Estuarine Dynamics and Their Role in Tidal Stratification Patterns in Lower South San Francisco Bay
+14:00		Olivia Hoang		*(UC Berkeley)* 	Longitudinal Versus Lateral Estuarine Dynamics and Their Role in Tidal Stratification Patterns in Lower South san Francisco Bay
 
-14:15		Zitman	Tjerk	Delft	Role of salinity dynamics and eddy viscosity profile in lateral estuarine circulations and suspended sediment distribution
+14:15		Tjerk Zitman		*(TU Delft)*	Role of Salinity Dynamics and Eddy Viscosity Profile in Lateral Estuarine Circulations and Suspended Sediment Distribution
 
-14:30		Schulz	Kristin	NIOZ	AN INVERSION OF THE ESTUARINE CIRCULATION BY SLUICE WATER DISCHARGE AND ITS IMPACT ON SUSPENDED SEDIMENT TRANSPORT
+14:30		Kristin Schulz	*(NIOZ)*	An Inversion of the Estuarine Circulation by Sluice Water Discharge and its Impact on Suspended Sediment Transport
 
 
 ***14:45	Coffee + posters  (5 min of intro from session moderator)***
@@ -63,13 +63,17 @@ layout: default
 ## Estuaries (wind, and other forcing)
 
 
-16:00		Simpson	John	Bangor	The annual cycle of the mechanical energy budget in a temperate lake
+16:00		John Simpson		*(Bangor)*	The Annual Cycle of the Mechanical Energy Budget in a Temperate Lake
 
-16:15		Lange	Xaver	IOW	Wind-induced exchange flow properties in non-tidal estuaries
+16:15		Xaver Lange		*(IOW)*	Wind-induced Exchange Flow Properties in Non-tidal Estuaries
 
-16:30		Coogan	Jeff	South Alabama	Observations of stratification and wind mixing in a microtidal estuary, Mobile Bay, AL.
+16:30		Jeff Coogan		*(South Alabama)*	Observations of Stratification and Wind Mixing in a Microtidal Estuary, Mobile bay, AL.
 
-16:45		Ganju	Neil	USGS	Identifying drivers of vertical mixing in a karst subterranean estuary
+16:45		Neil Ganju		*(USGS)*	Identifying Drivers of Vertical Mixing in a Karst Subterranean Estuary
+
+### 18:00 Turbulence mixer at the (Ocean Star Museum)[http://www.oceanstaroec.com/] sponsored by 
+
+![Rockland Scientific][RSI-logo-horiz.jpg]
 
 
 
