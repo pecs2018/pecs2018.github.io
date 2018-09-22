@@ -266,71 +266,128 @@ layout: default
 # Poster sessions
 
 ### Monday	14-Oct	110	9:45	Estuaries, part 1
+
 111	Sohaib	Alahmed	*(U Maine)*	Isolating residual flow drivers in a macrotidal and convergent estuary: a numerical study
+
 112	Alexis	Beudin	*(Bordeaux)*	Observations of salinity structure and circulation in the Gironde estuary
+
 113	Zhongyuan	Lin	*(Sun Yat-sen U)*	Intraseasonal and interannual variabilities of saltwater intrusion during dry seasons and the assocaited driving forcings in a partially mixed estuary
+
 114	Zhilin	Zhang 	*(Delft)*	Testing thermodynamics of saline and fresh water mixing in estuaries
+
 115	David	Ralston	*(WHOI)*	???
+
 116	Dylan	Schlichting	*(Umaine)*	Using Salinity Variance and Total Exchange Flow to Analyze Salinity Structure in an Unsteady Estuary
+
 117	Sepehr	Eslami Arab	*(Utrecht)*	Salt intrusion trends in the multi-channel system of the Mekong Delta, Vietnam
+
 118	Ming	Li	*(UMCES)*	Impact of Sea Level Rise and Coastline Management on Tidal Mixing, Estuarine Stratification and Estuarine Circulation
+
 ### Monday	14-Oct	120	14:45	Estuaries, part 2
 
+
 121	Braulio	Juarez	*(Florida)*	Competition between driving forces in a laterally variable estuary
+
 122	Zhuo	Liu	*(TX Water Develop Board)*	3-D Cross-Scale Baroclinic Modeling in Galveston Bay During an Average Inflow Year
+
 123	Carlos	Schettini	*(Pernambuco)*	Tidal and sub-tidal flow variability in a sub-tropical highly stratified estuary
+
 124	Preston	Spicer	*(U Maine)*	Drivers of Spatial and Temporal Asymmetries in Mixing in a Low-Inflow Estuary
+
 125	Arnoldo	Valle-Levinson	*(Florida)*	Unconventional fortnightly variability of exchange flows in a subtropical stratified estuary
+
 126	Jian	Zhou	*(UC Berkeley)*	The influence of shoal-channel morphology on lateral adjustment and residual circulation in partially mixed estuaries
+
 127	Peter	Robins	*(Bangor)*	Combination hazard of extreme rainfall, storm surge and high tide on different estuary types.
+
 
 ### Tuesday	15-Oct	130	9:45	Coastal processes, part 1
 
+
 131	Isabella	Arzeno	*(Scripps)*	LOW AND NEAR-INERTIAL TEMPERATURE ANOMALIES ON THE SEYCHELLES PLATEAU
+
 132	Jiabi	Du	*(TAMU-G)*	A cross-scale numerical model for Texas and Louisiana Coast
+
 133	Nair	Pereira	*(Universidade Federal do Rio de Janeiro)*	Intensification of currents by remote meteorological effect in Ilha Grande and Sepetiba bays, Brazil
+
 134	Harpeet	Kaur	*(Southern Miss)*	The occurrence of tidal hybrid Kelvin-edge waves in the Global Ocean
+
 135	Yuren	Chen	*(Sun Yat-sen U)*	Effects of wave-current interaction on the Pearl River Estuary during Typhoon Hato
+
 136	Weiqiu	Chen	*(Twente)*	EXPERIMENTAL STUDY ON THE INFLUENCE OF A BERM AND ROUGHNESS ON WAVE OVERTOPPING DISCHARGE
+
 137	Vera	van Bergeijk	*(Twente)*	An idealised model to study the effects of transitions on wave overtopping flow and dike cover erosion
+
 ### Tuesday	15-Oct	140	14:45	Coastal processes, part 2
 
+
 141	Catherine	Fitzpatrick	*(LUMCON, Tulane)*	Variation of the MR and AR plumes from data synthesis of HYCOM model outputs
+
 142	Wenping	Gong	*(Sun Yat-sen U)*	Plume-to-plume interactions in the Pearl River Delta in winter
+
 143	Elisa	Fernandes	*(Universidade Federal do Rio Grande)*	Patos Lagoon coastal plume morphology based on multispectral methods
+
 144	Xiliang	Diao	*(TAMU)*	Using statistics with drifter tracking to define a river plume
+
 145	Rob 	Hetland	*(TAMU)*	???
+
 146	Martinho	Marta-Almeida	*(Vigo)*	SIMULATING OCEAN CLIMATE IN THE IBERIAN REGION
+
 147	Evan	Turner	*(TX Water Develop Board)*	Hosting and Mirroring Coastal Observation Data Online Using Python and RESTful API
+
 
 ### Wednesday	16-Oct	210	9:45	Sediment
 
+
 211	X.D.	Chen	*(Hohai U)*	The effect of cyclic variation of shear stress on non-cohesive sediment stabilization by microbial biofilms
+
 212	Melanie	Diaz	*(IFREMER)*	Modelling sediment exchanges between the Gironde Estuary and the adjacent continental shelf: sensitivity analysis of sediment fluxes to the sediment initialisation and parameterization
+
 213	Qing	He	*(East China Normal)*	Effects of turbulence on the development of flocculation
+
 214	Weihao	Huang	*(Sun Yat-sen U)*	Sediment Transport affected by the Advection and Resuspension processes in the western part of Pearl River Estuary
+
 215	Benjamin	Jacob	*(Helmhotz-Zentrum Geesthacht)*	German Bight Estuaries. An inter-comparison study from the perspective of numerical modelling
+
 216	Julie	Pietzrak	*(Delft)*	0
+
 217	Weicong	Cheng	*(Sun Yat-sen U)*	Interannual variations of water age and its relationship with hypoxia events in an embayment along the Northern South China Sea
+
 
 ### Thursday	17-Oct	220	9:45	Sediment and morphodynamics
 
+
 221	Yoeri	Dijkstra	*(Delft)*	Using a combination of the iFlow and Delft 3D models to demonstrate the change of the Ems River Estuary into a hyperturbid estuary
+
 222	Eliane	Truccolo	*(Pernambuco)*	Spatial-temporal variability of Amazon reff system exposure to turbidity coastal waters
+
 223	Wenting	Wu	*(East China Normal)*	Impacts of coastal engineering and sea level rise
+
 224	Xiao	Deng	*(Delft)*	Existence and Stability of Morphodynamic Equilibria in Double Inlet Systems
+
 225	Tjebbe	Hepkema	*(Utrecht)*	The effect of diffusive suspended load transport on the characteristics of estuarine tidal bars
+
 226	Alejandro	Paladio Hernandez	*(UNAM)*	Morphodynamics of tidal inlets in the northern Yucatan peninsula, using an idealized geometry to identify which natural forces drive sand spit genesis and growth.
+
 227	Tongxin	Cai	*(Sun Yat-sen U)*	The Impacts of External Forcing and Geometry on Energy Transport in Convergent Estuaries
+
 
 ### Thursday	17-Oct	230	14:45	Tides and anthropogenic impacts
 
+
 231	Philip	Duzinski	*(Rutgers)*	Transport mechanisms in the tidal fresh and oligohaline reaches of the Delaware Estuary
+
 232	Jinyang	Wang	*(Utrecht)*	A 2DV estuarine network model for tides and net water transport, with application to the Yangtze estuary
+
 233	Frank	Koesters	*(BAW)*	Systematic assessment of the impact of a planned channel deepening on estuarine physics, the example of the Weser estuary (North Sea)
+
 234	Leicheng	Guo	*(East China Normal)*	Tidal asymmetry and its response to river discharge and sea level rise
+
 235	Chenyu	Cao	*(Sun Yat-sen U)*	Impact of external forcing on backwater length in tidal rivers
+
 236	Steven	Dykstra	*(South Alabama)*	Impacts of an inland basin on an estuarine system in coastal Alabama
+
 237	Yuan	Shi	*(Hohai U)*	EOF analysis of exploring the factors contributing to the temporal and spatial variations of tidal level in Yangtze River Estuary
+
 
 
