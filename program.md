@@ -175,6 +175,7 @@ layout: default
 ***12:15	lunch***
 
 ## 13:45	Excursions
+We are planning a boat trip in Galveston Bay, in three separate groups that will be free for attendees. We will help to organize other activities as requested.
 
 # Thursday	18-Oct
 
@@ -231,7 +232,7 @@ layout: default
 
 16:45	Fernando	Pareja	*(Rutgers)*	Shifts in tidal and salt dynamics in Delaware Bay after a century of dred
 
-
+### 18:00 Conference dinner at the Tremont
 
 # Friday	19-Oct
 
