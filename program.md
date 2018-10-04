@@ -266,6 +266,11 @@ We are planning a boat trip in Galveston Bay, in three separate groups that will
 
 # Poster sessions
 
+
+Posters will be up in two sessions: Monday-Tuesday and Wednesday-Thursday. Be sure to attend your poster during your allotted time.
+
+Poster board dimensions are 32" wide by 64" tall (about 0.8 x 1.6 meters).
+
 ### Monday	14-Oct	110	9:45	Estuaries, part 1
 
 111	Sohaib	Alahmed	*(U Maine)*	Isolating residual flow drivers in a macrotidal and convergent estuary: a numerical study
