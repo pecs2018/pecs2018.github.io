@@ -351,8 +351,6 @@ Poster board dimensions are 32" wide by 64" tall (about 0.8 x 1.6 meters).
 
 215	Benjamin	Jacob	*(Helmhotz-Zentrum Geesthacht)*	German Bight Estuaries. An inter-comparison study from the perspective of numerical modelling
 
-216	Julie	Pietzrak	*(Delft)*	0
-
 217	Weicong	Cheng	*(Sun Yat-sen U)*	Interannual variations of water age and its relationship with hypoxia events in an embayment along the Northern South China Sea
 
 
