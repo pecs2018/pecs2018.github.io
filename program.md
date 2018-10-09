@@ -281,8 +281,6 @@ Poster board dimensions are 32" wide by 64" tall (about 0.8 x 1.6 meters).
 
 114	Zhilin	Zhang 	*(Delft)*	Testing thermodynamics of saline and fresh water mixing in estuaries
 
-115	David	Ralston	*(WHOI)*	???
-
 116	Dylan	Schlichting	*(Umaine)*	Using Salinity Variance and Total Exchange Flow to Analyze Salinity Structure in an Unsteady Estuary
 
 117	Sepehr	Eslami Arab	*(Utrecht)*	Salt intrusion trends in the multi-channel system of the Mekong Delta, Vietnam
@@ -334,8 +332,6 @@ Poster board dimensions are 32" wide by 64" tall (about 0.8 x 1.6 meters).
 143	Elisa	Fernandes	*(Universidade Federal do Rio Grande)*	Patos Lagoon coastal plume morphology based on multispectral methods
 
 144	Xiliang	Diao	*(TAMU)*	Using statistics with drifter tracking to define a river plume
-
-145	Rob 	Hetland	*(TAMU)*	???
 
 146	Martinho	Marta-Almeida	*(Vigo)*	SIMULATING OCEAN CLIMATE IN THE IBERIAN REGION
 
