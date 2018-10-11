@@ -299,7 +299,7 @@ We are planning a boat trip in Galveston Bay, in three separate groups that will
 
 14:30	Abdel	Nnafie	*(Utrecht)*	Impact of sea level rise on estuarine morphodynamics: The role of increasing tidal amplitudes
 
-*** 14:45	Coffee + posters***
+***14:45 Coffee + posters***
 
 - Philip	Duzinski	*(Rutgers)*	Transport mechanisms in the tidal fresh and oligohaline reaches of the Delaware Estuary
 
@@ -316,7 +316,6 @@ We are planning a boat trip in Galveston Bay, in three separate groups that will
 - Yuan	Shi	*(Hohai U)*	EOF analysis of exploring the factors contributing to the temporal and spatial variations of tidal level in Yangtze River Estuary
 
 ## Anthropogenic influences
-
 
 16:00	Stefan	Talke	*(Portland State)*	The influence of channel deepening on high water marks: case study of hurricane
 
@@ -343,7 +342,7 @@ We are planning a boat trip in Galveston Bay, in three separate groups that will
 
 9:30	Veronica	Ruiz	*(TAMU)*	Using a budget analysis to understand variability in the bottom hypoxia of the Texas Louisiana shelf
 
-***9:45	Coffee + posters  (5 min of intro from session moderator)***
+***9:45	Coffee***
 
 ## Estuarine stratification, mixing
 
