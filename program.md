@@ -129,17 +129,17 @@ Poster board dimensions are 32" wide by 64" tall (about 0.8 x 1.6 meters).
 
 ***9:45	Coffee + posters***
 
-Isabella	Arzeno	*(Scripps)*	LOW AND NEAR-INERTIAL TEMPERATURE ANOMALIES ON THE SEYCHELLES PLATEAU
+- Isabella	Arzeno	*(Scripps)*	LOW AND NEAR-INERTIAL TEMPERATURE ANOMALIES ON THE SEYCHELLES PLATEAU
 
-Jiabi	Du	*(TAMU-G)*	A cross-scale numerical model for Texas and Louisiana Coast
+- Jiabi	Du	*(TAMU-G)*	A cross-scale numerical model for Texas and Louisiana Coast
 
-Nair	Pereira	*(Universidade Federal do Rio de Janeiro)*	Intensification of currents by remote meteorological effect in Ilha Grande and Sepetiba bays, Brazil
+- Nair	Pereira	*(Universidade Federal do Rio de Janeiro)*	Intensification of currents by remote meteorological effect in Ilha Grande and Sepetiba bays, Brazil
 
-Harpeet	Kaur	*(Southern Miss)*	The occurrence of tidal hybrid Kelvin-edge waves in the Global Ocean
+- Harpeet	Kaur	*(Southern Miss)*	The occurrence of tidal hybrid Kelvin-edge waves in the Global Ocean
 
-Yuren	Chen	*(Sun Yat-sen U)*	Effects of wave-current interaction on the Pearl River Estuary during Typhoon Hato
+- Yuren	Chen	*(Sun Yat-sen U)*	Effects of wave-current interaction on the Pearl River Estuary during Typhoon Hato
 
-Vera	van Bergeijk	*(Twente)*	An idealised model to study the effects of transitions on wave overtopping flow and dike cover erosion
+- Vera	van Bergeijk	*(Twente)*	An idealised model to study the effects of transitions on wave overtopping flow and dike cover erosion
 
 ## Nearshore processes and river plumes
 
@@ -173,17 +173,17 @@ Vera	van Bergeijk	*(Twente)*	An idealised model to study the effects of transiti
 
 ***14:45	Coffee + posters***
 
-Catherine	Fitzpatrick	*(LUMCON, Tulane)*	Variation of the MR and AR plumes from data synthesis of HYCOM model outputs
+- Catherine	Fitzpatrick	*(LUMCON, Tulane)*	Variation of the MR and AR plumes from data synthesis of HYCOM model outputs
 
-Wenping	Gong	*(Sun Yat-sen U)*	Plume-to-plume interactions in the Pearl River Delta in winter
+- Wenping	Gong	*(Sun Yat-sen U)*	Plume-to-plume interactions in the Pearl River Delta in winter
 
-Elisa	Fernandes	*(Universidade Federal do Rio Grande)*	Patos Lagoon coastal plume morphology based on multispectral methods
+- Elisa	Fernandes	*(Universidade Federal do Rio Grande)*	Patos Lagoon coastal plume morphology based on multispectral methods
 
-Xiliang	Diao	*(TAMU)*	Using statistics with drifter tracking to define a river plume
+- Xiliang	Diao	*(TAMU)*	Using statistics with drifter tracking to define a river plume
 
-Martinho	Marta-Almeida	*(Vigo)*	Simulating Ocean Climate in the Iberian Region
+- Martinho	Marta-Almeida	*(Vigo)*	Simulating Ocean Climate in the Iberian Region
 
-Evan	Turner	*(TX Water Develop Board)*	Hosting and Mirroring Coastal Observation Data Online Using Python and RESTful API
+- Evan	Turner	*(TX Water Develop Board)*	Hosting and Mirroring Coastal Observation Data Online Using Python and RESTful API
 
 
 ## River plumes
@@ -217,17 +217,17 @@ Evan	Turner	*(TX Water Develop Board)*	Hosting and Mirroring Coastal Observation
 
 ***9:45	Coffee + posters***
 
-X.D.	Chen	*(Hohai U)*	The effect of cyclic variation of shear stress on non-cohesive sediment stabilization by microbial biofilms
+- X.D.	Chen	*(Hohai U)*	The effect of cyclic variation of shear stress on non-cohesive sediment stabilization by microbial biofilms
 
-Melanie	Diaz	*(IFREMER)*	Modelling sediment exchanges between the Gironde Estuary and the adjacent continental shelf: sensitivity analysis of sediment fluxes to the sediment initialisation and parameterization
+- Melanie	Diaz	*(IFREMER)*	Modelling sediment exchanges between the Gironde Estuary and the adjacent continental shelf: sensitivity analysis of sediment fluxes to the sediment initialisation and parameterization
 
-Qing	He	*(East China Normal)*	Effects of turbulence on the development of flocculation
+- Qing	He	*(East China Normal)*	Effects of turbulence on the development of flocculation
 
-Weihao	Huang	*(Sun Yat-sen U)*	Sediment Transport affected by the Advection and Resuspension processes in the western part of Pearl River Estuary
+- Weihao	Huang	*(Sun Yat-sen U)*	Sediment Transport affected by the Advection and Resuspension processes in the western part of Pearl River Estuary
 
-Benjamin	Jacob	*(Helmhotz-Zentrum Geesthacht)*	German Bight Estuaries. An inter-comparison study from the perspective of numerical modelling
+- Benjamin	Jacob	*(Helmhotz-Zentrum Geesthacht)*	German Bight Estuaries. An inter-comparison study from the perspective of numerical modelling
 
-Weicong	Cheng	*(Sun Yat-sen U)*	Interannual variations of water age and its relationship with hypoxia events in an embayment along the Northern South China Sea
+- Weicong	Cheng	*(Sun Yat-sen U)*	Interannual variations of water age and its relationship with hypoxia events in an embayment along the Northern South China Sea
 
 ## Sediment transport, part 2
 
@@ -260,19 +260,19 @@ We are planning a boat trip in Galveston Bay, in three separate groups that will
 
 ***9:45	Coffee + posters***
 
-Yoeri	Dijkstra	*(Delft)*	Using a combination of the iFlow and Delft 3D models to demonstrate the change of the Ems River Estuary into a hyperturbid estuary
+- Yoeri	Dijkstra	*(Delft)*	Using a combination of the iFlow and Delft 3D models to demonstrate the change of the Ems River Estuary into a hyperturbid estuary
 
-Eliane	Truccolo	*(Pernambuco)*	Spatial-temporal variability of Amazon reff system exposure to turbidity coastal waters
+- Eliane	Truccolo	*(Pernambuco)*	Spatial-temporal variability of Amazon reff system exposure to turbidity coastal waters
 
-Wenting	Wu	*(East China Normal)*	Impacts of coastal engineering and sea level rise
+- Wenting	Wu	*(East China Normal)*	Impacts of coastal engineering and sea level rise
 
-Xiao	Deng	*(Delft)*	Existence and Stability of Morphodynamic Equilibria in Double Inlet Systems
+- Xiao	Deng	*(Delft)*	Existence and Stability of Morphodynamic Equilibria in Double Inlet Systems
 
-Tjebbe	Hepkema	*(Utrecht)*	The effect of diffusive suspended load transport on the characteristics of estuarine tidal bars
+- Tjebbe	Hepkema	*(Utrecht)*	The effect of diffusive suspended load transport on the characteristics of estuarine tidal bars
 
-Alejandro	Paladio Hernandez	*(UNAM)*	Morphodynamics of tidal inlets in the northern Yucatan peninsula, using an idealized geometry to identify which natural forces drive sand spit genesis and growth.
+- Alejandro	Paladio Hernandez	*(UNAM)*	Morphodynamics of tidal inlets in the northern Yucatan peninsula, using an idealized geometry to identify which natural forces drive sand spit genesis and growth.
 
-Tongxin	Cai	*(Sun Yat-sen U)*	The Impacts of External Forcing and Geometry on Energy Transport in Convergent Estuaries
+- Tongxin	Cai	*(Sun Yat-sen U)*	The Impacts of External Forcing and Geometry on Energy Transport in Convergent Estuaries
 
 
 ## Morphodynamics
@@ -301,19 +301,19 @@ Tongxin	Cai	*(Sun Yat-sen U)*	The Impacts of External Forcing and Geometry on En
 
 *** 14:45	Coffee + posters***
 
-Philip	Duzinski	*(Rutgers)*	Transport mechanisms in the tidal fresh and oligohaline reaches of the Delaware Estuary
+- Philip	Duzinski	*(Rutgers)*	Transport mechanisms in the tidal fresh and oligohaline reaches of the Delaware Estuary
 
-Jinyang	Wang	*(Utrecht)*	A 2DV estuarine network model for tides and net water transport, with application to the Yangtze estuary
+- Jinyang	Wang	*(Utrecht)*	A 2DV estuarine network model for tides and net water transport, with application to the Yangtze estuary
 
-Frank	Koesters	*(BAW)*	Systematic assessment of the impact of a planned channel deepening on estuarine physics, the example of the Weser estuary (North Sea)
+- Frank	Koesters	*(BAW)*	Systematic assessment of the impact of a planned channel deepening on estuarine physics, the example of the Weser estuary (North Sea)
 
-Leicheng	Guo	*(East China Normal)*	Tidal asymmetry and its response to river discharge and sea level rise
+- Leicheng	Guo	*(East China Normal)*	Tidal asymmetry and its response to river discharge and sea level rise
 
-Chenyu	Cao	*(Sun Yat-sen U)*	Impact of external forcing on backwater length in tidal rivers
+- Chenyu	Cao	*(Sun Yat-sen U)*	Impact of external forcing on backwater length in tidal rivers
 
-Steven	Dykstra	*(South Alabama)*	Impacts of an inland basin on an estuarine system in coastal Alabama
+- Steven	Dykstra	*(South Alabama)*	Impacts of an inland basin on an estuarine system in coastal Alabama
 
-Yuan	Shi	*(Hohai U)*	EOF analysis of exploring the factors contributing to the temporal and spatial variations of tidal level in Yangtze River Estuary
+- Yuan	Shi	*(Hohai U)*	EOF analysis of exploring the factors contributing to the temporal and spatial variations of tidal level in Yangtze River Estuary
 
 ## Anthropogenic influences
 
