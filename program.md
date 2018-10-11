@@ -40,13 +40,13 @@ Poster board dimensions are 32" wide by 64" tall (about 0.8 x 1.6 meters).
 ***9:45	Coffee + posters***
 
 
-Sohaib	Alahmed	*(U Maine)*	Isolating residual flow drivers in a macrotidal and convergent estuary: a numerical study
+- Sohaib	Alahmed	*(U Maine)*	Isolating residual flow drivers in a macrotidal and convergent estuary: a numerical study
 
-Zhongyuan	Lin	*(Sun Yat-sen U)*	Intraseasonal and interannual variabilities of saltwater intrusion during dry seasons and the assocaited driving forcings in a partially mixed estuary
+- Zhongyuan	Lin	*(Sun Yat-sen U)*	Intraseasonal and interannual variabilities of saltwater intrusion during dry seasons and the assocaited driving forcings in a partially mixed estuary
 
-Zhilin	Zhang 	*(Delft)*	Testing thermodynamics of saline and fresh water mixing in estuaries
+- Zhilin	Zhang 	*(Delft)*	Testing thermodynamics of saline and fresh water mixing in estuaries
 
-Dylan	Schlichting	*(Umaine)*	Using Salinity Variance and Total Exchange Flow to Analyze Salinity Structure in an Unsteady Estuary
+- Dylan	Schlichting	*(Umaine)*	Using Salinity Variance and Total Exchange Flow to Analyze Salinity Structure in an Unsteady Estuary
 
 ## Estuaries and fjords
 
@@ -78,19 +78,17 @@ Dylan	Schlichting	*(Umaine)*	Using Salinity Variance and Total Exchange Flow to 
 
 ***14:45	Coffee + posters***
 
-Braulio	Juarez	*(Florida)*	Competition between driving forces in a laterally variable estuary
+- Braulio	Juarez	*(Florida)*	Competition between driving forces in a laterally variable estuary
 
-Zhuo	Liu	*(TX Water Develop Board)*	3-D Cross-Scale Baroclinic Modeling in Galveston Bay During an Average Inflow Year
+- Zhuo	Liu	*(TX Water Develop Board)*	3-D Cross-Scale Baroclinic Modeling in Galveston Bay During an Average Inflow Year
 
-Carlos	Schettini	*(Pernambuco)*	Tidal and sub-tidal flow variability in a sub-tropical highly stratified estuary
+- Carlos	Schettini	*(Pernambuco)*	Tidal and sub-tidal flow variability in a sub-tropical highly stratified estuary
 
-Preston	Spicer	*(U Maine)*	Drivers of Spatial and Temporal Asymmetries in Mixing in a Low-Inflow Estuary
+- Preston	Spicer	*(U Maine)*	Drivers of Spatial and Temporal Asymmetries in Mixing in a Low-Inflow Estuary
 
-Arnoldo	Valle-Levinson	*(Florida)*	Unconventional fortnightly variability of exchange flows in a subtropical stratified estuary
+- Jian	Zhou	*(UC Berkeley)*	The influence of shoal-channel morphology on lateral adjustment and residual circulation in partially mixed estuaries
 
-Jian	Zhou	*(UC Berkeley)*	The influence of shoal-channel morphology on lateral adjustment and residual circulation in partially mixed estuaries
-
-Peter	Robins	*(Bangor)*	Combination hazard of extreme rainfall, storm surge and high tide on different estuary types.
+- Peter	Robins	*(Bangor)*	Combination hazard of extreme rainfall, storm surge and high tide on different estuary types.
 
 
 ## Wind and other effects in estuaries 
