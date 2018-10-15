@@ -239,7 +239,7 @@ Poster board dimensions are 32" wide by 64" tall (about 0.8 x 1.6 meters).
 
 11:45	Tim	Dellapenna	*(TAMU-G)*	How Much Sediment Was Delivered to Galveston Bay from Hurricane Harvey, where did it come from and how contaminated was it?
 
-***12:15	lunch***
+***Lunch on your own***
 
 ## 13:45	Excursions
 We are planning a boat trip in Galveston Bay, in three separate groups that will be free for attendees. We will help to organize other activities as requested.
